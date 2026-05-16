@@ -1,4 +1,6 @@
+URL:http://ec2-13-233-92-150.ap-south-1.compute.amazonaws.com/
 DevOps E-Commerce Application 
+
 Project Overview
 
 This project demonstrates a complete DevOps CI/CD pipeline for deploying and monitoring a Dockerized React-based E-Commerce application on AWS EC2 using Jenkins, Docker, Prometheus, Grafana, and Uptime Kuma.
