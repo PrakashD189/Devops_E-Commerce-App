@@ -1,4 +1,5 @@
-URL:http://ec2-13-233-92-150.ap-south-1.compute.amazonaws.com/
+URL:http://13.233.92.150
+
 DevOps E-Commerce Application 
 
 Project Overview
